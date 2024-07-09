@@ -1,7 +1,7 @@
 
 # Desafio de Controle de Fluxo 
 
-O projeto DesafioControleFluxo é uma aplicação Java simples que demonstra o uso de controle de fluxo e tratamento de exceções personalizadas. O objetivo é ler dois números inteiros fornecidos pelo usuário, validar a ordem desses números e, caso estejam corretos, imprimir uma sequência de números no console. Se a ordem dos números for inválida (ou seja, o primeiro número for maior que o segundo), uma exceção personalizada é lançada.
+O projeto DesafioControleFluxo é uma aplicação Java simples que demonstra o uso de controle de fluxo e tratamento de exceções personalizadas. O objetivo é ler dois números inteiros fornecidos pelo usuário, validar a ordem desses números e, caso estejam corretos, imprimir uma sequência de números no console. Se a ordem dos números for inválida (ou seja, o primeiro número for maior ou igual ao segundo), uma exceção personalizada é lançada.
 
 ## Exemplo de Uso:
 
